@@ -1,0 +1,9 @@
+@article{REPO070,
+    author = "Cai, Jiannan and Chen, Jun and Dou, Xianhui and Xing, Qianguo",
+    journal = "IEEE Transactions on Geoscience and Remote Sensing",
+    pages = "1--13",
+    publisher = "IEEE",
+    title = "{Using machine learning algorithms with in situ hyperspectral reflectance data to assess comprehensive water quality of urban rivers}",
+    volume = "60",
+    year = "2022"
+}
