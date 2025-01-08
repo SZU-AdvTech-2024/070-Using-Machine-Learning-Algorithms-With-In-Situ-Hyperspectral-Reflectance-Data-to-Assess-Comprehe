@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="yym@172.31.226.112:22 password (7)" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="yym@172.31.226.112:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home2/yym/code_1D-CNN" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="yym@172.31.226.112:22 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="yym@172.31.226.112:22 password (7)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home2/yym/code_1D-CNN" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
